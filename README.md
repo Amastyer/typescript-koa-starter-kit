@@ -8,3 +8,17 @@ git clone https://github.com/Amastyer/typescript-koa-started-kit.git "projectNam
 cd "projectName"
 npm install 或 yarn
 ```
+
+## build
+
+使用vscode
+
+```
+task tsc
+```
+
+使用命令行
+
+```
+tsc -w -p .
+```
