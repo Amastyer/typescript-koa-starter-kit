@@ -7,6 +7,8 @@
 git clone https://github.com/Amastyer/typescript-koa-started-kit.git "projectName"
 cd "projectName"
 npm install 或 yarn
+tsc -p .
+npm start
 ```
 
 ## build
